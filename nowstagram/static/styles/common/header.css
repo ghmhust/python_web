@@ -38,12 +38,14 @@
     text-indent: 110%;
     white-space: nowrap;
 }
+
 .profile-ico2 {
     background-image: url(../../images/img/icons.png);
+    background-repeat: no-repeat;
     background-size: 352px 157px;
-    background-position: 0px 0px;
-    height: 48px;
-    width: 48px;
+    background-position: -500px -200px;
+    height: 24px;
+    width: 24px;
     display: block;
     overflow: hidden;
     text-indent: 110%;
